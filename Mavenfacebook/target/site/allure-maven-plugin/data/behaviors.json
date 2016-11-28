@@ -1,0 +1,37 @@
+{
+  "features" : [ {
+    "title" : "Login feature",
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "c892d1f21ba2e5d",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "4e554657e237561c",
+        "name" : "signinverification",
+        "title" : "Signinverification",
+        "time" : {
+          "start" : 1480351525014,
+          "stop" : 1480351528274,
+          "duration" : 3260
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "LAPTOP-SIIMV6LJ",
+    "threads" : [ {
+      "title" : "12004@LAPTOP-SIIMV6LJ.main(1)",
+      "testCases" : [ {
+        "uid" : "4e554657e237561c",
+        "name" : "signinverification",
+        "title" : "Signinverification",
+        "time" : {
+          "start" : 1480351525014,
+          "stop" : 1480351528274,
+          "duration" : 3260
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

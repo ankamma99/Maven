@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1480351518337" stop="1480351529459" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1480351525014" stop="1480351528274" status="passed">
+            <name>signinverification</name>
+            <description>verify invalid login error message</description>
+            <steps>
+                <step start="1480351525607" stop="1480351526284" status="passed">
+                    <name>enterUsername[ankamma]</name>
+                    <title>Enter username</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1480351526290" stop="1480351526425" status="passed">
+                    <name>enterPassword[123456]</name>
+                    <title>Enter Password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1480351526428" stop="1480351527832" status="passed">
+                    <name>clickOnSigninButton</name>
+                    <title>Click on signin button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="feature" value="Login feature"/>
+                <label name="host" value="LAPTOP-SIIMV6LJ"/>
+                <label name="thread" value="12004@LAPTOP-SIIMV6LJ.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

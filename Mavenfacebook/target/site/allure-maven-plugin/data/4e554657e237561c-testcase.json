@@ -1,0 +1,98 @@
+{
+  "uid" : "4e554657e237561c",
+  "name" : "signinverification",
+  "title" : "Signinverification",
+  "time" : {
+    "start" : 1480351525014,
+    "stop" : 1480351528274,
+    "duration" : 3260
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "verify invalid login error message",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "beb8819fc9b66670",
+    "name" : "Suite : Test",
+    "title" : "Suite : Test"
+  },
+  "steps" : [ {
+    "name" : "enterUsername[ankamma]",
+    "title" : "Enter username",
+    "time" : {
+      "start" : 1480351525607,
+      "stop" : 1480351526284,
+      "duration" : 677
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "enterPassword[123456]",
+    "title" : "Enter Password",
+    "time" : {
+      "start" : 1480351526290,
+      "stop" : 1480351526425,
+      "duration" : 135
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickOnSigninButton",
+    "title" : "Click on signin button",
+    "time" : {
+      "start" : 1480351526428,
+      "stop" : 1480351527832,
+      "duration" : 1404
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Login feature"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-SIIMV6LJ"
+  }, {
+    "name" : "thread",
+    "value" : "12004@LAPTOP-SIIMV6LJ.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

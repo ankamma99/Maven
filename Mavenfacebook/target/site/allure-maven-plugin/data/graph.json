@@ -1,0 +1,14 @@
+{
+  "testCases" : [ {
+    "uid" : "4e554657e237561c",
+    "name" : "signinverification",
+    "title" : "Signinverification",
+    "time" : {
+      "start" : 1480351525014,
+      "stop" : 1480351528274,
+      "duration" : 3260
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}
